@@ -2,18 +2,15 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Hannah's Blog"
+  title: "Hannah's Portfolio"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/hannahbarrow
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: morph
+    css: style.css
 
 editor: visual
-

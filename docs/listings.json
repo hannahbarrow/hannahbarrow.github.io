@@ -2,8 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/for-future/index.html",
+      "/posts/trees-5/index.html",
+      "/posts/utilities-4/index.html",
+      "/posts/education-2/index.html",
+      "/posts/consumption-1/index.html"
     ]
   }
 ]

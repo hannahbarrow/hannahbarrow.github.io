@@ -4,27 +4,76 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Hannah Barrow is a soon to be graduate of Sewanee studying Biology: Ecology and Biodiversity. She like whales and butteries and guitars, she even has ceramic ornaments of each of those things to prove that they are her favorites. She also loves canoeing and climbing and biking and my friends and jelly bean candies.\nMost recently, Hannah has discovered the joy of data storytelling. Ever since she learned the magic that you can do with R, she has been wanting to learn how to use it and how to tap into this new creative outlet that can also be used share messages and stories with others. Now she can…"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "DS2",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "The Cost of Consumption",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "This data story is an exploration of the UN’s Sustainable Development Goals 7 (affordable and clean energy), 12 (responsible consumption and production), and 13 (climate action). I was looking at how energy consumption and contributions to carbon emissions differ among countries with different GDP’s, using data from the Global Carbon Project. The countries that I focused on where the United States, Germany, Egypt, India, Brazil, Australia, and Japan.\n\nLink to the data story.\nLink to the repo."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hannah’s Blog",
+    "title": "Hannah’s Portfolio",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 21, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 18, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my portfolio! This is a collection of all of my data stories from the semester in ESCI 222. We used data from a variety of sources to tell stories and not only present information, but be convincing and tell the story that is behind the information. Here I have stories on carbon emissions and energy use, education sending, water use, and tree composition in Sewanee.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFor the Future\n\n\n\n\n\n\nSDG\n\n\nSewanee\n\n\ndata collection\n\n\n\nImprovements and Future Endeavors\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Collection and Tree Composition Study\n\n\nCreating a data collection app for forest composition data collection.\n\n\n\nSewanee\n\n\ndata collection\n\n\n\nData Story 5\n\n\n\n\n\nApr 21, 2026\n\n\nHannah Barrow\n\n\n\n\n\n\n\n\n\n\n\n\nSewane Water Use\n\n\nExploring Sewanee Utilities Data\n\n\n\nSewanee\n\n\nwater\n\n\n\nData Story 4\n\n\n\n\n\nApr 17, 2026\n\n\nHannah Barrow\n\n\n\n\n\n\n\n\n\n\n\n\nEducation Inequality\n\n\nDoes having more money mean that you are spending more money on education?\n\n\n\nSDG\n\n\n\nData Story 2\n\n\n\n\n\nMar 3, 2026\n\n\nHannah Barrow\n\n\n\n\n\n\n\n\n\n\n\n\nThe Cost of Consumption\n\n\nGDP, Energy Use, Carbon Emissions, and Changing Temperatures\n\n\n\nSDG\n\n\n\nData Story 1\n\n\n\n\n\nFeb 17, 2026\n\n\nHannah Barrow\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/the-cost-of-consumption/index.html",
+    "href": "posts/the-cost-of-consumption/index.html",
+    "title": "The Cost of Consumption",
+    "section": "",
+    "text": "This data story is an exploration of the UN’s Sustainable Development Goals 7 (affordable and clean energy), 12 (responsible consumption and production), and 13 (climate action). I was looking at how energy consumption and contributions to carbon emissions differ among countries with different GDP’s, using data from the Global Carbon Project. The countries that I focused on where the United States, Germany, Egypt, India, Brazil, Australia, and Japan. From this exploration, I found the imbalance between the largest contributors to climate change and where the consequences of consumption are felt the most.\n\n\n\nMap from the Global Carbon Project’s Global Carbon Atlas\n\n\nLink to my data story.\nLink to the repo."
+  },
+  {
+    "objectID": "posts/consumption-1/index.html",
+    "href": "posts/consumption-1/index.html",
+    "title": "The Cost of Consumption",
+    "section": "",
+    "text": "This data story is an exploration of the UN’s Sustainable Development Goals 7 (affordable and clean energy), 12 (responsible consumption and production), and 13 (climate action). I was looking at how energy consumption and contributions to carbon emissions differ among countries with different GDP’s, using data from the Global Carbon Project. The countries that I focused on where the United States, Germany, Egypt, India, Brazil, Australia, and Japan. From this exploration, I found the imbalance between the largest contributors to climate change and where the consequences of consumption are felt the most.\n\n\n\nMap from the Global Carbon Project’s Global Carbon Atlas\n\n\nLink to my data story.\nLink to GitHub repo."
+  },
+  {
+    "objectID": "posts/education-2/index.html",
+    "href": "posts/education-2/index.html",
+    "title": "Education Inequality",
+    "section": "",
+    "text": "This data story is an exploration of the UN’s Sustainable Development Goals 4 (quality education) and 5 (gender equality). Using data from Our World In Data, I explored how countries of varying GDP’s also differ in their spending on education, education inequality, and enrollment. I highlighted the imbalanced relationship between a countries GDP and how much of that money is actually going towards education citizens and that it is often the countries with lower wealth that are putting more of their money towards education.\n\nLink to my data story.\nLink to GitHub repo."
+  },
+  {
+    "objectID": "posts/data-story-5/index.html",
+    "href": "posts/data-story-5/index.html",
+    "title": "title for 5",
+    "section": "",
+    "text": "BLURB\nIMAGE\nLink to my data story.\nLink to GitHub repo."
+  },
+  {
+    "objectID": "posts/trees-5/index.html",
+    "href": "posts/trees-5/index.html",
+    "title": "Data Collection and Tree Composition Study",
+    "section": "",
+    "text": "For this data story, I created a data collection app for Beatrix to use while collecting data on tree composition at various sites for her independent study work. She was comparing the forest composition at different sites with various archaeological sites to see if the presence of structures alters the compositions that you will fin. Specifically, I was given data from two dump sites that she visited.\n\nLink to my data story.\nLink to GitHub repo + the code for my app."
+  },
+  {
+    "objectID": "posts/utilities-4/index.html",
+    "href": "posts/utilities-4/index.html",
+    "title": "Sewane Water Use",
+    "section": "",
+    "text": "This data story is relevant to UN’s Sustainable Development Goals 6 (clean water and sanitation) and 12 (responsible production and consumption). For this data story, I was exploring data collected in Sewanee on utility use, specifically water use. I explored the different buildings on campus to compare their use and the cost of water in each building. I would like to improve this data story by adding more information on the buildings and occupancy to make better comparisons.\n\nLink to GitHub repo."
+  },
+  {
+    "objectID": "posts/for-future/index.html",
+    "href": "posts/for-future/index.html",
+    "title": "For the Future",
+    "section": "",
+    "text": "There are a few data stories that I didn’t get to do this semester that I would have really liked to (3 and 6). But… maybe I’m actually a genius because now that I’m graduating/finishing this class, I will be able to stay sharp with my R skills because now I can have more projects to work on! I’m not joking, I will probably do data story 6 this summer because it’s fun and I did really want to get to explore data on SDG 12."
   }
 ]

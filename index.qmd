@@ -1,5 +1,5 @@
 ---
-title: "Hannah's Blog"
+title: "Hannah's Portfolio"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,3 +10,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+Welcome to my portfolio! This is a collection of all of my data stories from the semester in ESCI 222. We used data from a variety of sources to tell stories and not only present information, but be convincing and tell the story that is behind the information. Here I have stories on carbon emissions and energy use, education sending, water use, and tree composition in Sewanee.
